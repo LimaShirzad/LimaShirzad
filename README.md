@@ -3,19 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=limashirzad" alt="limashirzad" /></a> </p>
 
-- 🌱 I’m currently learning **Advanced Spring Boot, Next.js, Docker, and Clean Architecture**
-
-- 👯 I’m looking to collaborate on **Open-source projects, backend development, and modern web applications**
-
-- 🤝 I’m looking for help with **Microservices, System Design, and Cloud Deployment**
-
 - 👨‍💻 All of my projects are available at [https://github.com/LimaShirzad](https://github.com/LimaShirzad)
 
-- 💬 Ask me about **Java, Spring Boot, REST APIs, React, Next.js, Git, and MySQL**
-
 - 📫 How to reach me **limasherzad55@gamil.com**
-
-- ⚡ Fun fact **I enjoy solving programming challenges and continuously learning new technologies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
